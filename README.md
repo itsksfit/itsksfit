@@ -14,9 +14,9 @@
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ Summary
 
-I am an AI/ML developer specializing in building and shipping production-grade, full-stack AI platforms[cite: 1]. I engineer scalable backend systems, optimize local LLM infrastructure, and deploy pipelines that completely eliminate manual overhead[cite: 1]. Driven by performance, clean code, and community leadership[cite: 1].
+I am an AI/ML developer specializing in building and shipping production-grade, full-stack AI platforms. I engineer scalable backend systems, optimize local LLM infrastructure, and deploy pipelines that completely eliminate manual overhead. Driven by performance, clean code, and community leadership.
 
 ---
 
@@ -33,7 +33,6 @@ I am an AI/ML developer specializing in building and shipping production-grade, 
 
 ### 🛠️ Developer Tools & Cloud Infrastructure
 ```📦 Git  |  GitHub  |  Linux  |  VS Code  |  Apache Tomcat  |  Vercel  |  Render```
-
 
 <p align="center">
   <i>"Clean code, automated infrastructure, and deployed models."</i><br>
