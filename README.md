@@ -34,23 +34,6 @@ I am an AI/ML developer specializing in building and shipping production-grade, 
 ### 🛠️ Developer Tools & Cloud Infrastructure
 ```📦 Git  |  GitHub  |  Linux  |  VS Code  |  Apache Tomcat  |  Vercel  |  Render```
 
----
-
-## 📊 Analytics & Insights Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsksfit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats Dashboard" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksfit&layout=compact&theme=tokyonight" alt="Language Analytics Dashboard" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsksfit&theme=tokyonight" alt="Commit Streak Dashboard" />
-</p>
-
----
 
 <p align="center">
   <i>"Clean code, automated infrastructure, and deployed models."</i><br>
