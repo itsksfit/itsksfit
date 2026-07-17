@@ -1,65 +1,26 @@
-# 👋 Hi, I'm Krishna Sharma
-### AI/ML Developer & Full-Stack Engineer 🚀
+# Krishna Sharma
 
-Full-stack AI/ML undergraduate specialized in shipping production-deployed AI platforms (FastAPI + LLM APIs) that solve real-world problems. Proven track record of cutting manual workflow times by up to 90% and optimizing infrastructure for zero-cost deployment.
+> B.Tech in Computer Science & Engineering (AI & ML) @ Galgotias University (2024 - 2028)
 
-🌐 **[Portfolio Website](https://itsksfit.github.io)** | 💼 **[LinkedIn](https://linkedin.com/in/krishnasharmx)** | ✉️ **[Email](mailto:ks1445674@gmail.com)** | 📍 Delhi, India
+AI/ML Developer with a strong foundation in backend engineering, NLP, and Generative AI. Experienced across the entire stack from API design to cloud deployment.
 
----
-
-## ⚡ Quick Overview
-- 🧠 **Currently Focus:** Generative AI, NLP, and scalable backend architectures.
-- ☁️ **Leadership:** Head of the Cloud Computing Club at Galgotias Tech Council (driving 40%+ community growth).
-- 🛠️ **Infrastructure:** Obsessed with engineering zero-cost local LLM deployment pipelines.
-- 🚀 **Looking For:** SDE / AI / ML Internship Opportunities.
+[Portfolio](https://itsksfit.github.io) • [LinkedIn](https://linkedin.com/in/krishnasharmx) • [Email](mailto:ks1445674@gmail.com)
 
 ---
 
-## 🛠️ Technical Toolkit
+### 🚀 Core Strengths
+- **Production AI:** Developed and shipped full-stack AI platforms cutting manual workflows by 90%.
+- **Community Leadership:** Leading the Cloud Computing Club at Galgotias Tech Council, growing engagement by 40%+.
+- **Problem Solving:** Maintaining a production-backed GitHub footprint paired with consistent DSA practice on LeetCode.
 
-<table>
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>Python, C++, Java</td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI / ML</b></td>
-    <td>Generative AI, NLP, Prompt Engineering, RAG, LangChain, Machine Learning</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>FastAPI, REST APIs, API Integration, JDBC, Servlets</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend & DB</b></td>
-    <td>HTML5, CSS3, JavaScript, MongoDB, MySQL</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & DevOps</b></td>
-    <td>Git, GitHub, Linux, Vercel, Render, Apache Tomcat, VS Code</td>
-  </tr>
-</table>
+### 🔧 Tech Stack
+- **AI/ML:** Generative AI | NLP | LangChain | RAG | Prompt Engineering
+- **Backend/DB:** FastAPI | REST APIs | MongoDB | MySQL | Servlets
+- **Languages/Tools:** Python | C++ | Java | JavaScript | Git | Linux | Vercel
+
+### 📂 Production Deployments
+- **ContentFlow AI:** 4-agent AI pipeline using real-time Reddit/YouTube data for trend validation and script generation.
+- **AutoMarketer AI:** Context-aware marketing platform powered by LLAMA 3.3-70B and FLUX.1 with asynchronous MongoDB tracking.
 
 ---
-
-## 🚀 Featured Production Projects
-
-### 🤖 ContentFlow AI | `Python` `FastAPI` `NLP` `Vercel` `Render`
-*An 4-agent AI pipeline automating content discovery, trend validation, and viral script generation.*
-- Built an NLP-powered Hinglish content generation engine with weighted engagement scoring.
-- Cut manual research time by **90%** and scripting effort by **85%**.
-- Deployed scalable REST APIs with zero external LLM API dependency, reducing operational costs by **100%**.
-
-### 📈 AutoMarketer AI | `Python` `FastAPI` `MongoDB` `Groq` `Hugging Face`
-*Full-stack AI marketing platform extracting brand info to auto-generate copy and imagery.*
-- Integrated Groq's LLAMA 3.3-70B with an intelligent 5-minute cache to eliminate redundant API calls.
-- Implemented Hugging Face FLUX.1 for AI image generation with automated fallback mechanics.
-- Built a responsive glassmorphism dashboard tracking campaign history asynchronously via Motor.
-
----
-
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsksfit&show_icons=true&theme=dracula&hide_border=true" alt="Krishna's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksfit&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+*Open to Software Engineering and AI/ML internship roles.*
