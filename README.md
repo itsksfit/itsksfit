@@ -38,3 +38,4 @@ I am an AI/ML developer specializing in building and shipping production-grade, 
   <i>"Clean code, automated infrastructure, and deployed models."</i><br>
   <b>© 2026 Krishna Sharma</b>
 </p>
+
