@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Krishna%20Sharma&subtitle=AI/ML%20%7C%20Full%20Stack%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=AI%2FML+Undergraduate;FastAPI+%2B+LLM+API+Architect;Cloud+Computing+Club+Head;Full+Stack+Product+Developer" alt="Typing SVG" />
 </p>
